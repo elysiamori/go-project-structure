@@ -21,6 +21,8 @@ Structure Folder:
 |           |-- handler.go
 |       |-- middlewares
 |           |-- middleware.go
+|       |-- models
+|           |-- models.go
 |       |-- repositories
 |           |-- repository.go
 |       |-- routers
