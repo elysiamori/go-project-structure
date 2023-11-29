@@ -19,6 +19,8 @@ Structure Folder:
 |               |-- response.go
 |       |-- handlers
 |           |-- handler.go
+|       |-- middlewares
+|           |-- middleware.go
 |       |-- repositories
 |           |-- repository.go
 |       |-- routers
